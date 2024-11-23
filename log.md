@@ -7,3 +7,8 @@
 ## Date : 22-Nov-2024
 - So, I continued on yesterday's task, in which i forgot to put doctype and meta tags.
 - Today I mostly check on yesterday's code block rewrite it again and also put necessary details in anki. and check on it.
+
+## Date : 23-Nov-2024
+- Started with next things, like [working with text](https://www.theodinproject.com/lessons/foundations-working-with-text).
+- Messed with **Bold texts**, *italic texts*, *pargraphs*, *headings*.
+- Put them into a anki as well.
