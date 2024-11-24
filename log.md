@@ -12,3 +12,6 @@
 - Started with next things, like [working with text](https://www.theodinproject.com/lessons/foundations-working-with-text).
 - Messed with **Bold texts**, *italic texts*, *pargraphs*, *headings*.
 - Put them into a anki as well.
+
+## Date: 24-Nov-2024
+- started with checking on *list* in html.
