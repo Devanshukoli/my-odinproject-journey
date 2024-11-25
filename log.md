@@ -21,4 +21,4 @@
 ## Date: 25-Nov-2024
 - Get Started with *Git commits*.
 - [article link](https://www.conventionalcommits.org/en/v1.0.0/) interesting 🙂
-
+- Completed the [odin-recipes project](https://devanshukoli.github.io/odin-recipes)
