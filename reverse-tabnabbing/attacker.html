@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Attacker Page (Simulation)</title>
+</head>
+<body>
+    <h1>Simulated Attacker Page</h1>
+    <p>This simulates a page that would try to steal your information.</p>
+    <p>Normally, this page would change the original page's URL. Check the console of the original page!</p>
+    <script>
+
+      if (window.opener) {
+           // In a real attack, this line would redirect
+           // window.opener.location = 'https://malicious-fake-site.com'; // DO NOT uncomment this
+           console.log("The console on the original page will log a message.");
+           console.log("In a real attack, that page would be redirected right now.");
+        }
+    </script>
+
+</body>
+</html>
+

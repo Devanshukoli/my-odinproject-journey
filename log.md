@@ -15,3 +15,10 @@
 
 ## Date: 24-Nov-2024
 - started with checking on *list* in html.
+- Then continue, Learned about links and images, In which come through interesting topics like:
+- 1. **tabnabbing** : A *vulnerability* to exploit, when in anchor tag we forgot to put html attribute `rel='noopener noreferer'`.
+
+## Date: 25-Nov-2024
+- Get Started with *Git commits*.
+- [article link](https://www.conventionalcommits.org/en/v1.0.0/) interesting 🙂
+

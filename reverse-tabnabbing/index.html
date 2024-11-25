@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tabnabbing Demo (Safe)</title>
+</head>
+<body>
+    <h1>Original Page</h1>
+    <p>This is your main page.  Click the button below.</p>
+    <button onclick="window.open('attacker.html', 'popupWindow')">Open Popup</button>
+    <script>
+        // This console message will show IF the attacker page successfully changes this page's URL.
+        window.addEventListener('beforeunload', function(event) {
+          console.log("Original page URL changed!");
+        });
+
+    </script>
+</body>
+</html>
