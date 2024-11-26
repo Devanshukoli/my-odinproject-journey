@@ -1,0 +1,9 @@
+.container .text {
+    background: yellow;
+    color: red;
+    font-size:20px;
+    display: flex;  
+    font-weight: bold;
+    justify-content: center;
+    align-items: center;
+}

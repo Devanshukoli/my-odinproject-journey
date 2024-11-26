@@ -22,3 +22,8 @@
 - Get Started with *Git commits*.
 - [article link](https://www.conventionalcommits.org/en/v1.0.0/) interesting 🙂
 - Completed the [odin-recipes project](https://devanshukoli.github.io/odin-recipes)
+
+## Date: 26-Nov-2024
+- Get Started with *intro to css*.
+- Then Completed the it. and learn about various css selectors, descendant and many more things...
+
