@@ -27,3 +27,7 @@
 - Get Started with *intro to css*.
 - Then Completed the it. and learn about various css selectors, descendant and many more things...
 
+## Date: 27-Nov-2024
+- Get started with next module named *The Cascade*. (Looks interesting 🔥)
+- Worked on some *cascade* named file, in which I was debugging about css affected it. Gotta say though. now I'm more thinking about it. I actually cool-mindedly search which thing is affecting it. and then took action. 🤟
+- Though I did *mark as complete* I think I will keep coming back to additional resources of this one. It contains so much info. And I'm really excited about it.
