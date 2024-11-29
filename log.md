@@ -37,3 +37,6 @@
 - [Open chrome devtools video](goo.gle/devtools-open)
 - come to know awesome things about **Chrome Devtools**. Love it. 😃
 
+## Date: 29-Nov-2024
+- Get Started with *The box Model*
+- learn about *box model* and it's fundamentals. The *resources* were awesome!
