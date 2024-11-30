@@ -40,3 +40,8 @@
 ## Date: 29-Nov-2024
 - Get Started with *The box Model*
 - learn about *box model* and it's fundamentals. The *resources* were awesome!
+
+## Date: 30-Nov-2024
+- Get started with *Block and Inline*.
+- learn about inline and block which are 2 types of display property. interesting!!
+- did 2 exercise in which learning about margin, padding, border.
