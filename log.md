@@ -45,3 +45,7 @@
 - Get started with *Block and Inline*.
 - learn about inline and block which are 2 types of display property. interesting!!
 - did 2 exercise in which learning about margin, padding, border.
+
+## Date: 1-Dec-2024
+- Get started with *intro to Flex box*.
+- Learned about **flex-box** , And it's really amazing. Put things into *anki* as well. 
