@@ -48,4 +48,9 @@
 
 ## Date: 1-Dec-2024
 - Get started with *intro to Flex box*.
-- Learned about **flex-box** , And it's really amazing. Put things into *anki* as well. 
+- Learned about **flex-box** , And it's really amazing. Put things into *anki* as well.
+
+## Date: 2-Dec-2024
+- Get started with *Growing and Shrinking*.
+- Learned about *flex's* 3 properites, such as *flex-grow*, *flex-shrink* and *flex-basis* and in depth details. ( for now I fast forwarded lots of technical details, But eventually come back here for jolting my memory for it.)
+
