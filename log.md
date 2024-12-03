@@ -54,3 +54,7 @@
 - Get started with *Growing and Shrinking*.
 - Learned about *flex's* 3 properites, such as *flex-grow*, *flex-shrink* and *flex-basis* and in depth details. ( for now I fast forwarded lots of technical details, But eventually come back here for jolting my memory for it.)
 
+## Date: 3-Dec-2024
+- Get started with *Axes*.
+- Learned about *Axes* in flex, that I watched in previous videos. like *row* and *column*, Which I mean is that. like **X-axies** and **Y-axies**. In tech term that say, *Main axes* and *Cross axes*.
+
