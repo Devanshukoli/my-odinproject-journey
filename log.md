@@ -58,3 +58,6 @@
 - Get started with *Axes*.
 - Learned about *Axes* in flex, that I watched in previous videos. like *row* and *column*, Which I mean is that. like **X-axies** and **Y-axies**. In tech term that say, *Main axes* and *Cross axes*.
 
+## Date: 4-Dec-2024
+- Get started with *Alignment*.
+- Learn Alignment in flex. did several practice. Still some of the are pending. gotta do first thing in morning. :)
