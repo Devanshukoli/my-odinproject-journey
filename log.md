@@ -61,3 +61,7 @@
 ## Date: 4-Dec-2024
 - Get started with *Alignment*.
 - Learn Alignment in flex. did several practice. Still some of the are pending. gotta do first thing in morning. :)
+
+## Date: 5-Dec-2024
+- Get started with yesterday's half completed assignment.
+- Continue with my practice of *flex*. Still there's 2 excersice is pending. 💪 will get back to it!
