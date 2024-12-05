@@ -16,7 +16,7 @@ img {
   margin-bottom: 33px;
 }
 
-.container {
+.main {
   display: flex;
   justify-content: center;
   gap: 33px;
