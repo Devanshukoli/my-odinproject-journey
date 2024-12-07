@@ -65,3 +65,11 @@
 ## Date: 5-Dec-2024
 - Get started with yesterday's half completed assignment.
 - Continue with my practice of *flex*. Still there's 2 excersice is pending. 💪 will get back to it!
+
+## Date: 6-Dec-2024
+- Get started with first flex-layout exercise.
+- In which, I practiced about simple layout of webdesign.
+
+## Date: 7-Dec-2024
+- Get started with second exercise of flex-layout.
+- In which learned **Holy Grail Layout** term. For simple term, it means it has header, footer, main-box, sidebar, container.
