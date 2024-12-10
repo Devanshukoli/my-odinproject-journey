@@ -73,3 +73,16 @@
 ## Date: 7-Dec-2024
 - Get started with second exercise of flex-layout.
 - In which learned **Holy Grail Layout** term. For simple term, it means it has header, footer, main-box, sidebar, container.
+
+## Date: 8-Dec-2024
+- Get started with exercise of making **Landing-page**.
+- left off the landing-page design with some headers and main sections. and try to add css into them as well.
+
+## Date: 9-Dec-2024
+- Get started with where I left off with **Landing-Page**.
+- Did second section of landing-page.
+
+## Date: 10-Dec-2024
+- Get started with *Landing-Page*.
+- Kind of determind about completing this project. And completed it.
+
