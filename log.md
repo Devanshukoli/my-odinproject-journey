@@ -86,3 +86,6 @@
 - Get started with *Landing-Page*.
 - Kind of determind about completing this project. And completed it.
 
+## Date: 11-Dec-2024
+- Get started with *Variables and Operators*.
+- learned javascript and console.logs most of the time.
