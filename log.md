@@ -89,3 +89,8 @@
 ## Date: 11-Dec-2024
 - Get started with *Variables and Operators*.
 - learned javascript and console.logs most of the time.
+
+## Date: 12-Dec-2024
+- There was page about *install node*.
+- I have already installed it not matter much.
+
