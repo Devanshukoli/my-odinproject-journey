@@ -94,3 +94,8 @@
 - There was page about *install node*.
 - I have already installed it not matter much.
 
+## Date: 13-Dec-2024
+- Get started with *Data Types and Conditions*.
+- Though I'm running from my *responsibility* of completing. But I'm getting it done first things in the morning!
+
+
