@@ -98,4 +98,6 @@
 - Get started with *Data Types and Conditions*.
 - Though I'm running from my *responsibility* of completing. But I'm getting it done first things in the morning!
 
-
+## Date: 14-Dec-2024
+- Continue with yesterdya's topic called **Data types and conditions**. ( Well not the first thing in the morning But not last as well! 😉)
+- In which checking various sources and practicing it.
