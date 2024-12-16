@@ -101,3 +101,8 @@
 ## Date: 14-Dec-2024
 - Continue with yesterdya's topic called **Data types and conditions**. ( Well not the first thing in the morning But not last as well! 😉)
 - In which checking various sources and practicing it.
+
+## Date: 16-Dec-2024
+- Get started with *Devtools*.
+- It's mostly about *devtools* that you get from `ctrl + shift + j`. It opens *Javascript-console devtools*.
+
