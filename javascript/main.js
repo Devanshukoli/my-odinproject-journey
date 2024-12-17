@@ -1,18 +1,33 @@
+function favoriteAnimal(animal) {
+  return animal + " is my favorite animal!"
+}
 
+console.log(favoriteAnimal('Goat'))
 
-console.log(23 + 98);
+// add7 function.
+function add7(num) {
+  return num + 7;
+}
 
-console.log(2 + 34+ 90+ 92+ 23+ 90+ 90)
+console.log(add7(4))
 
-console.log((4 + 6 + 9) / 77);
+// multiply function
+function multiply(a, b) {
+  return a * b;
+}
 
-let a = 10;
-console.log(a)
-console.log( 9 * a)
+console.log(multiply(2, 5))
 
+// capitalize function
+function capitalize(str) {
+  return str.split(' ').map(char => char[0].toUpperCase() + char.slice(1)).join(' ');
+}
 
+console.log(capitalize('devanshu'))
 
-const max = 57;
-const actual = max - 13;
-const percentage = actual/max;
-console.log(percentage)
+// lastletter function
+function lastletter(letter) {
+  return letter[letter.length - 1];
+}
+
+console.log(lastletter('bhavesh'))

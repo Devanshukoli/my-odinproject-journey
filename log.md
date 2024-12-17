@@ -106,3 +106,6 @@
 - Get started with *Devtools*.
 - It's mostly about *devtools* that you get from `ctrl + shift + j`. It opens *Javascript-console devtools*.
 
+## Date: 17-Dec-2024
+- Get started with **Functions**.
+- So in todays part I learn about *functions*, it's execution to it's meaning. there were many great resources to help as well.
