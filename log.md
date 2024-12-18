@@ -109,3 +109,7 @@
 ## Date: 17-Dec-2024
 - Get started with **Functions**.
 - So in todays part I learn about *functions*, it's execution to it's meaning. there were many great resources to help as well.
+
+## Date: 18-Dec-2024
+- Get started with **Problem Solving**.
+- There were lots of tips around on how to break down any problem. and resources as well. 
