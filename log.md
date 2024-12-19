@@ -112,4 +112,8 @@
 
 ## Date: 18-Dec-2024
 - Get started with **Problem Solving**.
-- There were lots of tips around on how to break down any problem. and resources as well. 
+- There were lots of tips around on how to break down any problem. and resources as well.
+
+## Date: 19-Dec-2024
+- Today Just exploring *additional Resources* of previous section.
+
