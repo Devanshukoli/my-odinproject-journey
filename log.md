@@ -120,3 +120,6 @@
 ## Date: 20-Dec-2024
 - Just commenting here so I don't loose my tracks. I know it's not going to help anything. But still it just that I had this in my mind. even though I was being lazy.
 
+## Date: 21-Dec-2024
+- Get started with *Understanding Errors*.
+- Learned about **Errors** in js. also read artciles and watched chrome devtools video of it.
