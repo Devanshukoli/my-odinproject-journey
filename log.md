@@ -123,3 +123,6 @@
 ## Date: 21-Dec-2024
 - Get started with *Understanding Errors*.
 - Learned about **Errors** in js. also read artciles and watched chrome devtools video of it.
+
+## Date: 22-Dec-2024
+- Just checked about next section. It's project. I will be doing it tomorrow.
