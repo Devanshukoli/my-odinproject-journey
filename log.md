@@ -126,3 +126,10 @@
 
 ## Date: 22-Dec-2024
 - Just checked about next section. It's project. I will be doing it tomorrow.
+
+## Date: 23-Dec-2024
+- Get started with *Rock-paper-scissors* javascript project.
+
+## Date: 24-Dec-2024
+- Continue working on the project.
+- Completed it. 
