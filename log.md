@@ -132,4 +132,8 @@
 
 ## Date: 24-Dec-2024
 - Continue working on the project.
-- Completed it. 
+- Completed it.
+
+## Date: 25-Dec-2024
+- Get started with getting know about **Clean Code**.
+- Read many articles and learned really insightful things.
