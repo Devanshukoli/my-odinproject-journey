@@ -137,3 +137,7 @@
 ## Date: 25-Dec-2024
 - Get started with getting know about **Clean Code**.
 - Read many articles and learned really insightful things.
+
+## Date: 27-Dec-2024
+- Today Just checking out old resources for the web devs.
+- Read many articles and blogs.
