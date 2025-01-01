@@ -141,3 +141,7 @@
 ## Date: 27-Dec-2024
 - Today Just checking out old resources for the web devs.
 - Read many articles and blogs.
+
+## Date: 1-Jan-2025
+- I Intentionally stopped this commit. Because of new year plans that I had. And Now let's fix this with strong will. Gonna keep coming back here everyday and learn something new and make repetations as well.
+- Learning about *arrays*, and reading articles from *w3schools*.
