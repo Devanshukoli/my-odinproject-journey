@@ -1,2 +1,6 @@
-# my-odinproject-journey
-This is repo for tracking and commit to my odin project journey.
+# The Odin Project - *Journey*.
+
+- So this repository is me helding accountable for learning *Web Development* myself.
+- Commit everyday.
+- learn everyday.
+- Keep coming back for repeatation.
