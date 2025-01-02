@@ -145,3 +145,7 @@
 ## Date: 1-Jan-2025
 - I Intentionally stopped this commit. Because of new year plans that I had. And Now let's fix this with strong will. Gonna keep coming back here everyday and learn something new and make repetations as well.
 - Learning about *arrays*, and reading articles from *w3schools*.
+
+## Date: 2-Jan-2025
+- continue with Arrays lots of methods -> Brain fries. So skipped it pretty fast. But hey I recognize some of them since, I have been using them in codewars vastly.
+- Then watched Youtube videos of it.
