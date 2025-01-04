@@ -149,3 +149,9 @@
 ## Date: 2-Jan-2025
 - continue with Arrays lots of methods -> Brain fries. So skipped it pretty fast. But hey I recognize some of them since, I have been using them in codewars vastly.
 - Then watched Youtube videos of it.
+
+## Date: 3-Jan-2024
+- Continue on learning *loops* concept as well.
+
+## Date: 4-Jan-2024
+- Checked few examples of Loops.
