@@ -159,3 +159,6 @@
 ## Date: 5-Jan-2025
 - Continue on my part of learning it, Then taking look at **TDD** (*Test Driven Development*).
 - Trying out bunch of *js-exercises* regarding this *Tests*. Looks fun~
+
+## Date: 6-Jan-2025
+- Continue on practicing *Test* part of arrays. 
