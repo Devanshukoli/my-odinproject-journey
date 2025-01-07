@@ -161,4 +161,7 @@
 - Trying out bunch of *js-exercises* regarding this *Tests*. Looks fun~
 
 ## Date: 6-Jan-2025
-- Continue on practicing *Test* part of arrays. 
+- Continue on practicing *Test* part of arrays.
+
+## Date: 7-Jan-2025
+- Again. Continuing practcing the *Test* part of arrays.
