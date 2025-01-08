@@ -165,3 +165,6 @@
 
 ## Date: 7-Jan-2025
 - Again. Continuing practcing the *Test* part of arrays.
+
+## Date: 8-Jan-2025
+- Continue on solving array problem with traditional method. pen and paper solution and brainstorming.
