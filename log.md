@@ -168,3 +168,6 @@
 
 ## Date: 8-Jan-2025
 - Continue on solving array problem with traditional method. pen and paper solution and brainstorming.
+
+## Date: 9-Jan-2025
+- Continue on solving array problems with test.
