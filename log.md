@@ -171,3 +171,9 @@
 
 ## Date: 9-Jan-2025
 - Continue on solving array problems with test.
+
+## Date: 10-Jan-2025
+- learning about **DOM**
+
+## Date: 11-Jan-2025
+- continue on DOM, In which learning today about **Event**.

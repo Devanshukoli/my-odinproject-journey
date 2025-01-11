@@ -81,4 +81,10 @@ Now, for placing element in DOM...
 
 - Here, Keep in mind that JavaScript does *not* alter your HTML, but the DOM. Your HTML file will look the same, but the Js changes what the browser renders.
 
+- There is also concept of placing Js code correctly in an HTML document to ensure DOM manipulation methods work properly.
+
+1. **Include Js at the bottom** of the HTML file so it runs after the DOM nodes are created.
+2. **Use the `defer` attribute** in the `<script>` tag within the `<head>` section to load the Js file after the HTML is parsed.
+  - `defer` attribute ensures that the script is executed after the HTML document is fully parsed, preventing blocking of HTML parsing and improving page load performance.
+
 
