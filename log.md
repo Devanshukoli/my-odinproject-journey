@@ -177,3 +177,4 @@
 
 ## Date: 11-Jan-2025
 - continue on DOM, In which learning today about **Event**.
+- Also practiced a bit.

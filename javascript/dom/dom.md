@@ -87,4 +87,31 @@ Now, for placing element in DOM...
 2. **Use the `defer` attribute** in the `<script>` tag within the `<head>` section to load the Js file after the HTML is parsed.
   - `defer` attribute ensures that the script is executed after the HTML document is fully parsed, preventing blocking of HTML parsing and improving page load performance.
 
+### Event
+- *Events* are actions that occur on your webpage, such as mouse-clicks or key-preses.
 
+- There are basically 3 ways to do this...
+1. specify function attributes directly on HTML elements.
+
+```html
+<button onclick="alert("Hello world")">Click Me</button>
+```
+- This is kind of messy solution... Because we are directly using js into our html code. Also, there is only ONE property of `onclick` per DOM element we can use.
+
+2. Set properties in the from of `on<eventType>`, such as `onclick` or `onmousedown`.
+
+- for example, 
+```js
+const btn = document.querySelector('#btn');
+btn.onclick = () => alert("hello world!")
+```
+
+- Still the same problem as above, only ONE `onclick` per DOM element.
+
+3. Attach event listeners to the DOM nodes in your JS.
+```js
+const btn = document.querySelector("#btn");
+btn.addEventListener("click", () => {
+  alert("Hello World!");
+})
+```
