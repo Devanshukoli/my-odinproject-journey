@@ -178,3 +178,6 @@
 ## Date: 11-Jan-2025
 - continue on DOM, In which learning today about **Event**.
 - Also practiced a bit.
+
+## Date: 12-Jan-2025
+- today I took day off.
