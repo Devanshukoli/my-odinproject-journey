@@ -180,4 +180,4 @@
 - Also practiced a bit.
 
 ## Date: 12-Jan-2025
-- today I took day off.
+- today I took day off. first I thought I don't want to lose my daily commiting. But then realized it contains most important resources, which need quite time to gobble up.
