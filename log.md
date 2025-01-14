@@ -181,3 +181,9 @@
 
 ## Date: 12-Jan-2025
 - today I took day off. first I thought I don't want to lose my daily commiting. But then realized it contains most important resources, which need quite time to gobble up.
+
+## Date: 13-Jan-2025
+- Took holiday.
+
+## Date: 14-Jan-2025
+- Took holiday.
