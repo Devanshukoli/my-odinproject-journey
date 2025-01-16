@@ -190,3 +190,7 @@
 
 ## Date: 15-Jan-2025
 - Took Holiday today.
+
+## Date: 16-Jan-2025
+- Continue working on *DOM Manipulations*, In which checking on assignments.
+- Learn *Mouse Event* in JavaScript.
