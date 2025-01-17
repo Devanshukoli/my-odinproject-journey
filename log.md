@@ -194,3 +194,7 @@
 ## Date: 16-Jan-2025
 - Continue working on *DOM Manipulations*, In which checking on assignments.
 - Learn *Mouse Event* in JavaScript.
+
+## Date: 17-Jan-2025
+- Continue with *Keyboard Event* from **DOM Manipulations**.
+- Then practicing a bit about it.

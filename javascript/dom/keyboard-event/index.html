@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Experiment Keyboard events.</title>
+  </head>
+
+  <body>
+    <h1>Hello World!</h1>
+    <input type='text' id='message'>
+    <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      console.log("heloow rodl!")
+      let textBox = document.getElementById("message");
+      textBox.addEventListener('keydown', (event) => {
+        console.log(`key=${event.key}, code=${event.code}`)
+      })
+    })
+    </script>
+  </body>
+</html>
