@@ -199,4 +199,7 @@
 - Continue with *Keyboard Event* from **DOM Manipulations**.
 
 ## Date: 18-Jan-2025
-- Continue with learning *Js Custom Events*.
+- Did nothing on the odin project.
+
+## Date: 19-Jan-2025
+- Did nothing in the odin project. Just marked the *DOM Manipulation* thing as done.
