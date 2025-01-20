@@ -203,3 +203,8 @@
 
 ## Date: 19-Jan-2025
 - Did nothing in the odin project. Just marked the *DOM Manipulation* thing as done.
+
+## Date: 20-Jan-2025
+- Modifying the **Rock-paper-scissors** game in Javascript game console.
+- Learning *Branching* topic in git ( though I already know some of that concept 😉)
+- Then updating roack-paper-scissors and landing page project.
