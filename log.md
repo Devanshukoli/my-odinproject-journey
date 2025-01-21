@@ -208,3 +208,6 @@
 - Modifying the **Rock-paper-scissors** game in Javascript game console.
 - Learning *Branching* topic in git ( though I already know some of that concept 😉)
 - Then updating roack-paper-scissors and landing page project.
+
+## Date: 21-Jan-2025
+- Nothing able to do. Only learned github-actions only.
