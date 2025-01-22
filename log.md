@@ -211,3 +211,6 @@
 
 ## Date: 21-Jan-2025
 - Nothing able to do. Only learned github-actions only.
+
+## Date: 22-Jan-2025
+- Completed **Github actions**. Will continue tomorrow.
