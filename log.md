@@ -214,3 +214,8 @@
 
 ## Date: 22-Jan-2025
 - Completed **Github actions**. Will continue tomorrow.
+
+## Date: 23-Jan-2025
+- Continue working on RPS game.
+- Worked on **MVP** *(Minimum Viable Product)*. on excalidraw.
+
