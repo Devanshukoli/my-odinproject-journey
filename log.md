@@ -219,3 +219,5 @@
 - Continue working on RPS game.
 - Worked on **MVP** *(Minimum Viable Product)*. on excalidraw.
 
+## Date: 24-Jan-2025
+- continue working on RPS game project. ( wanted to make this professional project and will put on everywhere.)
