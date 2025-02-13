@@ -288,3 +288,12 @@
 ## Date: 29-Jan-2025
 
 - didn't work due to working on other project
+
+## Date: 30-Jan-2025
+
+- working on freeCodeCamp.
+
+## Date: 13-Feb-2025
+
+- Honestly, I am not able to work on this project right now. But it doesn't mean I have completely forgotten about it. I will keep coming back and try again and again...
+- currently learning vim, found interesting [website](https://openvim.com/), which help me step by step learning vim.
