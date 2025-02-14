@@ -297,3 +297,7 @@
 
 - Honestly, I am not able to work on this project right now. But it doesn't mean I have completely forgotten about it. I will keep coming back and try again and again...
 - currently learning vim, found interesting [website](https://openvim.com/), which help me step by step learning vim.
+
+## Date: 14-Feb-2025
+
+- so, I'm jumping ahead and learning few intermidiate concepts of HTML, CSS.
